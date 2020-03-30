@@ -8,6 +8,7 @@ npm install -g nativescript
 
 > A native application built with NativeScript-Vue
 
+
 ## Usage
 
 ``` bash
