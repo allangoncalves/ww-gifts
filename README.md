@@ -16,7 +16,7 @@ npm install -g nativescript
 npm install
 
 # Build for production
-tns build <platform> --bundle
+tns build <platform> --env.production
 
 # Build, watch for changes and debug the application
 tns debug <platform> --bundle
