@@ -15,6 +15,7 @@ npm install -g nativescript
 # Install dependencies
 npm install
 
+
 # Build for production
 tns build <platform> --env.production
 
